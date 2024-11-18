@@ -1,0 +1,162 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<style>
+    .modal-backdrop {
+        display: none !important;
+    }
+
+    .table-container {
+        max-height: 400px;
+        overflow-y: auto;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+
+<div class="modal fade" id="updateUserModal" tabindex="-1" role="dialog" aria-labelledby="updateUserModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="updateUserModalLabel">Kullanıcı Güncelle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
+            </div>
+            <div class="modal-body">
+                <form id="updateUserForm">
+                    <input type="hidden" id="updateUserId" name="updateUserId">
+                    <div class="form-group">
+                        <label for="updateUserName">Kullanıcı Adı:</label>
+                        <input type="text" class="form-control" id="updateUserName" name="updateUserName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="updateName">Ad:</label>
+                        <input type="text" class="form-control" id="updateName" name="updateName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="updateLastName">Soyad:</label>
+                        <input type="text" class="form-control" id="updateLastName" name="updateLastName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="updateEmail">E-posta:</label>
+                        <input type="email" class="form-control" id="updateEmail" name="updateEmail" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="updatePassword">Şifre:</label>
+                        <input type="password" class="form-control" id="updatePassword" name="updatePassword" minlength="6">
+                    </div>
+                    <div class="form-group">
+                        <label for="updateRoleId">Rol ID:</label>
+                        <select class="form-control" id="updateRoleId" name="updateRoleId" required>
+                            <option value="">Seçiniz...</option>
+                            <option value="1">Admin</option>
+                            <option value="2">Kullanıcı</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" class="btn btn-primary" id="saveUpdateButton">Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="addUserModal" tabindex="-1" role="dialog" aria-labelledby="addUserModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addUserModalLabel">Kullanıcı Ekle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
+            </div>
+            <div class="modal-body">
+                <form id="userForm">
+                    <div class="form-group">
+                        <label for="userName">Kullanıcı Adı:</label>
+                        <input type="text" class="form-control" id="userName" name="userName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Ad:</label>
+                        <input type="text" class="form-control" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="lastName">Soyad:</label>
+                        <input type="text" class="form-control" id="lastName" name="lastName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">E-posta:</label>
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Şifre:</label>
+                        <input type="password" class="form-control" id="password" name="password" required minlength="6">
+                    </div>
+                    <div class="form-group">
+                        <label for="roleId">Rol ID:</label>
+                        <select class="form-control" id="roleId" name="roleId" required>
+                            <option value="">Seçiniz...</option>
+                            <option value="1">Admin</option>
+                            <option value="2">Kullanıcı</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" class="btn btn-primary" id="saveUserButton">Kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addUserModal">
+    Kullanıcı Ekle
+</button>
+
+
+<h1>Kişiler</h1>
+<div class="container">
+    <div class="table-container">
+        <table id="dataTable" class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Ad</th>
+                    <th>Soyad</th>
+                    <th>Email</th>
+                    <th>Rol</th>
+                    <th>Sil</th>
+                    <th>Güncelle</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Bootstrap Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="~/js/user.js"></script>
+

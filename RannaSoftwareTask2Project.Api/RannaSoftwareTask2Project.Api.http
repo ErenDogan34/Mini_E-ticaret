@@ -1,0 +1,6 @@
+@RannaSoftwareTask2Project.Api_HostAddress = http://localhost:5067
+
+GET {{RannaSoftwareTask2Project.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

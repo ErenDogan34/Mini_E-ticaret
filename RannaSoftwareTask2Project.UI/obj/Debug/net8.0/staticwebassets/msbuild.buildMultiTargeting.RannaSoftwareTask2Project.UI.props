@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RannaSoftwareTask2Project.UI.props" />
+</Project>

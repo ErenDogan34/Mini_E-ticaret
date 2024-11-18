@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RannaSoftwareTask2Project.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RannaSoftwareTask2Project.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\134d42cc-e3c9-4ac0-b6c7-5398a400bd8f.jpeg",
+      "PackagePath": "staticwebassets\\images\\134d42cc-e3c9-4ac0-b6c7-5398a400bd8f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\1842cd39-d828-41ab-ad89-d348549f3acd.jpeg",
+      "PackagePath": "staticwebassets\\images\\1842cd39-d828-41ab-ad89-d348549f3acd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\226d2478-87d6-44a7-8af6-843508c1fa10.jpg",
+      "PackagePath": "staticwebassets\\images\\226d2478-87d6-44a7-8af6-843508c1fa10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\2935dc38-1294-474e-8c6d-2f281930c370.jpg",
+      "PackagePath": "staticwebassets\\images\\2935dc38-1294-474e-8c6d-2f281930c370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\2d0ef94f-9c5d-44b3-a948-222366049bc9.jpeg",
+      "PackagePath": "staticwebassets\\images\\2d0ef94f-9c5d-44b3-a948-222366049bc9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\5185ff01-0358-4ddf-8080-1b987483c783.jpeg",
+      "PackagePath": "staticwebassets\\images\\5185ff01-0358-4ddf-8080-1b987483c783.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\578d21c5-33fc-43b4-9afd-6e4726a71811.jpg",
+      "PackagePath": "staticwebassets\\images\\578d21c5-33fc-43b4-9afd-6e4726a71811.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\5e42302c-5680-453b-846e-e3bed453ca41.jpg",
+      "PackagePath": "staticwebassets\\images\\5e42302c-5680-453b-846e-e3bed453ca41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\728fafa3-8fc9-46c6-9a64-097dccef35ba.jpg",
+      "PackagePath": "staticwebassets\\images\\728fafa3-8fc9-46c6-9a64-097dccef35ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\7be72c3f-4582-4a21-bee4-4dccef629b2e.jpeg",
+      "PackagePath": "staticwebassets\\images\\7be72c3f-4582-4a21-bee4-4dccef629b2e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\85aa4c16-7697-41ce-a4bb-46a24dd3cbcb.jpg",
+      "PackagePath": "staticwebassets\\images\\85aa4c16-7697-41ce-a4bb-46a24dd3cbcb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\863d4fd2-75e4-4796-a442-41eaf2857487.jpg",
+      "PackagePath": "staticwebassets\\images\\863d4fd2-75e4-4796-a442-41eaf2857487.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\86b77a94-c3bc-4594-9fe4-a004878e13f5.jpeg",
+      "PackagePath": "staticwebassets\\images\\86b77a94-c3bc-4594-9fe4-a004878e13f5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\921e0817-143c-4b3d-9f4e-0cc5603598f9.jpeg",
+      "PackagePath": "staticwebassets\\images\\921e0817-143c-4b3d-9f4e-0cc5603598f9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\ab5b70a2-d4c9-466f-9085-1c731452287b.jpeg",
+      "PackagePath": "staticwebassets\\images\\ab5b70a2-d4c9-466f-9085-1c731452287b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\ad009ba6-cb0b-4f9f-9085-71365b803f7e.jpeg",
+      "PackagePath": "staticwebassets\\images\\ad009ba6-cb0b-4f9f-9085-71365b803f7e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\d349ef25-cdb9-4536-b38e-b7ac8b8f5990.jpeg",
+      "PackagePath": "staticwebassets\\images\\d349ef25-cdb9-4536-b38e-b7ac8b8f5990.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\d84a9c8d-abe8-496a-a3bd-eb89732adec6.jpg",
+      "PackagePath": "staticwebassets\\images\\d84a9c8d-abe8-496a-a3bd-eb89732adec6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\dad67e96-53a5-4261-a66c-8e1fe4561f28.jpeg",
+      "PackagePath": "staticwebassets\\images\\dad67e96-53a5-4261-a66c-8e1fe4561f28.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\e9a829cc-d646-41b0-b5ad-4b9be2b8a893.jpg",
+      "PackagePath": "staticwebassets\\images\\e9a829cc-d646-41b0-b5ad-4b9be2b8a893.jpg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\ed9a98ec-c455-4ddb-8efb-c2a50654dfc2.jpeg",
+      "PackagePath": "staticwebassets\\images\\ed9a98ec-c455-4ddb-8efb-c2a50654dfc2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\images\\f489fd07-8414-46f1-abfd-9598754d4fe7.jpeg",
+      "PackagePath": "staticwebassets\\images\\f489fd07-8414-46f1-abfd-9598754d4fe7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\js\\myproduct.js",
+      "PackagePath": "staticwebassets\\js\\myproduct.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\js\\productall.js",
+      "PackagePath": "staticwebassets\\js\\productall.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\js\\updateproduct.js",
+      "PackagePath": "staticwebassets\\js\\updateproduct.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msı\\source\\repos\\RannaSoftwareTask2Project\\RannaSoftwareTask2Project.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RannaSoftwareTask2Project.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RannaSoftwareTask2Project.UI.props",
+      "PackagePath": "build\\RannaSoftwareTask2Project.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RannaSoftwareTask2Project.UI.props",
+      "PackagePath": "buildMultiTargeting\\RannaSoftwareTask2Project.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RannaSoftwareTask2Project.UI.props",
+      "PackagePath": "buildTransitive\\RannaSoftwareTask2Project.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
